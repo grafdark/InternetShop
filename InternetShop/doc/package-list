@@ -1,0 +1,14 @@
+by.romanov.is.Main
+by.romanov.is.command
+by.romanov.is.controller
+by.romanov.is.database.dao
+by.romanov.is.database.impl
+by.romanov.is.database.utils
+by.romanov.is.entity
+by.romanov.is.exception
+by.romanov.is.filter
+by.romanov.is.language
+by.romanov.is.pool
+by.romanov.is.resource
+by.romanov.is.service
+by.romanov.is.tags
